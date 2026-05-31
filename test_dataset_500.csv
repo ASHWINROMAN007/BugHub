@@ -1,0 +1,501 @@
+Test_ID,Tested_Date,Project_Name,Module,Severity,Priority,Status,Assigned_To,Resolved_Date
+TS-001,2026-04-23,Nexus E-Commerce,Checkout,Minor,Medium,In Progress,Travis Torres,
+TS-002,2026-04-30,Nexus E-Commerce,Payment Gateway,Blocker,High,In Progress,Leonard Thomas,
+TS-003,2026-04-25,Nexus E-Commerce,Product Search,Minor,Low,In Progress,Nathan Smith,
+TS-004,2026-05-02,Titan Analytics Dashboard,Data Export,Minor,Medium,Resolved,Jessica Cox,2026-05-07
+TS-005,2026-05-07,Alpha Mobile App,Camera Integration,Minor,Low,New,Olivia Johnson,
+TS-006,2026-03-13,Nexus E-Commerce,User Auth,Minor,Low,Closed,Maria Martin,2026-03-22
+TS-007,2026-04-10,Nexus E-Commerce,Payment Gateway,Critical,Medium,Closed,Nathan Smith,2026-04-16
+TS-008,2026-04-12,Alpha Mobile App,Push Notifications,Blocker,High,Resolved,Travis Torres,2026-04-16
+TS-009,2026-05-24,Nexus E-Commerce,Payment Gateway,Major,Low,Closed,Matthew Gomez,2026-05-30
+TS-010,2026-04-25,Titan Analytics Dashboard,Chart Rendering,Major,Low,Closed,Travis Torres,2026-05-05
+TS-011,2026-03-02,Alpha Mobile App,Camera Integration,Critical,Medium,In Progress,Leonard Thomas,
+TS-012,2026-04-03,Alpha Mobile App,Offline Mode,Minor,Medium,In Progress,Crystal Rasmussen,
+TS-013,2026-05-10,Titan Analytics Dashboard,User Permissions,Major,High,Closed,Nathan Smith,2026-05-16
+TS-014,2026-03-24,Alpha Mobile App,UI Layout,Major,Low,Ready for QA,Shannon Berry,
+TS-015,2026-04-26,Alpha Mobile App,Camera Integration,Minor,Low,Resolved,Olivia Johnson,2026-05-06
+TS-016,2026-03-24,Core HR Portal,Onboarding Flow,Major,High,Ready for QA,Travis Torres,
+TS-017,2026-04-14,Nexus E-Commerce,Checkout,Critical,High,Resolved,Olivia Johnson,2026-04-24
+TS-018,2026-03-24,Nexus E-Commerce,Payment Gateway,Major,Medium,Ready for QA,Leonard Thomas,
+TS-019,2026-04-06,Nexus E-Commerce,Checkout,Major,Low,Resolved,Jessica Cox,2026-04-08
+TS-020,2026-05-09,Titan Analytics Dashboard,User Permissions,Critical,High,Closed,Shannon Berry,2026-05-18
+TS-021,2026-03-24,Alpha Mobile App,Push Notifications,Minor,Low,Closed,Leonard Thomas,2026-04-03
+TS-022,2026-03-30,Alpha Mobile App,Camera Integration,Major,High,Ready for QA,Leonard Thomas,
+TS-023,2026-05-27,Nexus E-Commerce,User Auth,Major,High,Closed,Shannon Berry,2026-05-31
+TS-024,2026-04-17,Nexus E-Commerce,Product Search,Minor,Medium,New,Maria Martin,
+TS-025,2026-03-16,Nexus E-Commerce,Product Search,Critical,Medium,Closed,Matthew Gomez,2026-03-21
+TS-026,2026-05-22,Core HR Portal,Leave Request,Minor,Medium,Resolved,Olivia Johnson,2026-05-28
+TS-027,2026-05-21,Core HR Portal,Performance Review,Critical,High,New,Crystal Rasmussen,
+TS-028,2026-04-17,Alpha Mobile App,Camera Integration,Blocker,High,In Progress,Crystal Rasmussen,
+TS-029,2026-05-15,Titan Analytics Dashboard,Data Export,Major,Medium,Resolved,Matthew Lambert,2026-05-24
+TS-030,2026-04-18,Alpha Mobile App,UI Layout,Major,Medium,Closed,Matthew Lambert,2026-04-20
+TS-031,2026-04-06,Nexus E-Commerce,Payment Gateway,Major,Medium,Ready for QA,Crystal Rasmussen,
+TS-032,2026-05-01,Nexus E-Commerce,Checkout,Major,Medium,Closed,Travis Torres,2026-05-05
+TS-033,2026-03-24,Alpha Mobile App,Camera Integration,Major,High,In Progress,Shannon Berry,
+TS-034,2026-04-19,Core HR Portal,Leave Request,Minor,Medium,In Progress,Leonard Thomas,
+TS-035,2026-04-17,Nexus E-Commerce,Checkout,Major,Low,Closed,Travis Torres,2026-04-21
+TS-036,2026-05-06,Alpha Mobile App,UI Layout,Major,High,Closed,Crystal Rasmussen,2026-05-09
+TS-037,2026-03-05,Core HR Portal,Payroll,Minor,Low,Closed,Maria Martin,2026-03-10
+TS-038,2026-05-03,Core HR Portal,Performance Review,Critical,Medium,In Progress,Crystal Rasmussen,
+TS-039,2026-04-08,Nexus E-Commerce,User Auth,Critical,Medium,Ready for QA,Leonard Thomas,
+TS-040,2026-05-28,Alpha Mobile App,Push Notifications,Minor,Medium,Closed,Travis Torres,2026-05-31
+TS-041,2026-05-26,Nexus E-Commerce,Product Search,Major,Low,In Progress,Nathan Smith,
+TS-042,2026-04-27,Nexus E-Commerce,Checkout,Major,Low,Ready for QA,Jessica Cox,
+TS-043,2026-04-24,Titan Analytics Dashboard,Chart Rendering,Major,Medium,In Progress,Olivia Johnson,
+TS-044,2026-05-29,Alpha Mobile App,Offline Mode,Major,High,New,Nathan Smith,
+TS-045,2026-05-14,Nexus E-Commerce,Checkout,Major,Low,In Progress,Jessica Cox,
+TS-046,2026-05-22,Nexus E-Commerce,Product Search,Major,High,In Progress,Leonard Thomas,
+TS-047,2026-04-25,Titan Analytics Dashboard,Data Export,Major,Low,In Progress,Travis Torres,
+TS-048,2026-04-19,Alpha Mobile App,Offline Mode,Critical,High,Resolved,Matthew Gomez,2026-04-24
+TS-049,2026-03-27,Titan Analytics Dashboard,Chart Rendering,Minor,Medium,Resolved,Shannon Berry,2026-04-05
+TS-050,2026-03-12,Core HR Portal,Onboarding Flow,Minor,Medium,New,Olivia Johnson,
+TS-051,2026-04-29,Titan Analytics Dashboard,Data Export,Blocker,High,Resolved,Shannon Berry,2026-05-02
+TS-052,2026-03-02,Core HR Portal,Performance Review,Major,High,New,Matthew Gomez,
+TS-053,2026-04-26,Nexus E-Commerce,User Auth,Major,High,In Progress,Crystal Rasmussen,
+TS-054,2026-04-25,Titan Analytics Dashboard,API Ingestion,Minor,Medium,Closed,Matthew Lambert,2026-04-29
+TS-055,2026-05-22,Nexus E-Commerce,User Auth,Minor,Low,Closed,Matthew Gomez,2026-05-26
+TS-056,2026-04-15,Alpha Mobile App,Camera Integration,Minor,Medium,In Progress,Jessica Cox,
+TS-057,2026-04-18,Core HR Portal,Leave Request,Major,Low,New,Crystal Rasmussen,
+TS-058,2026-05-06,Core HR Portal,Leave Request,Critical,Medium,In Progress,Matthew Lambert,
+TS-059,2026-05-04,Alpha Mobile App,Push Notifications,Major,Medium,In Progress,Travis Torres,
+TS-060,2026-03-17,Titan Analytics Dashboard,API Ingestion,Major,Medium,Resolved,Leonard Thomas,2026-03-23
+TS-061,2026-04-27,Nexus E-Commerce,Checkout,Minor,Low,In Progress,Shannon Berry,
+TS-062,2026-03-02,Nexus E-Commerce,Checkout,Major,Medium,Resolved,Jessica Cox,2026-03-09
+TS-063,2026-03-09,Nexus E-Commerce,Payment Gateway,Minor,Medium,In Progress,Olivia Johnson,
+TS-064,2026-05-04,Nexus E-Commerce,Product Search,Major,High,Closed,Jessica Cox,2026-05-14
+TS-065,2026-05-24,Titan Analytics Dashboard,Data Export,Minor,Low,Ready for QA,Olivia Johnson,
+TS-066,2026-04-25,Titan Analytics Dashboard,User Permissions,Major,Low,New,Olivia Johnson,
+TS-067,2026-05-01,Core HR Portal,Leave Request,Major,Medium,In Progress,Crystal Rasmussen,
+TS-068,2026-05-24,Titan Analytics Dashboard,API Ingestion,Major,Low,Resolved,Jessica Cox,2026-05-31
+TS-069,2026-04-11,Core HR Portal,Performance Review,Major,Low,Ready for QA,Matthew Gomez,
+TS-070,2026-05-12,Nexus E-Commerce,User Auth,Major,Low,Resolved,Travis Torres,2026-05-16
+TS-071,2026-04-15,Titan Analytics Dashboard,Chart Rendering,Minor,Medium,New,Matthew Lambert,
+TS-072,2026-04-28,Core HR Portal,Payroll,Major,Low,Ready for QA,Olivia Johnson,
+TS-073,2026-03-15,Core HR Portal,Performance Review,Major,Low,Resolved,Travis Torres,2026-03-22
+TS-074,2026-03-15,Alpha Mobile App,Camera Integration,Minor,Low,New,Matthew Lambert,
+TS-075,2026-04-01,Nexus E-Commerce,Payment Gateway,Critical,Medium,Resolved,Leonard Thomas,2026-04-11
+TS-076,2026-05-27,Titan Analytics Dashboard,User Permissions,Major,Low,Closed,Olivia Johnson,2026-05-31
+TS-077,2026-03-18,Core HR Portal,Leave Request,Minor,Low,Ready for QA,Matthew Lambert,
+TS-078,2026-04-20,Titan Analytics Dashboard,User Permissions,Major,Medium,In Progress,Shannon Berry,
+TS-079,2026-04-10,Alpha Mobile App,Offline Mode,Major,Low,New,Matthew Gomez,
+TS-080,2026-03-24,Alpha Mobile App,UI Layout,Major,Low,In Progress,Olivia Johnson,
+TS-081,2026-03-22,Core HR Portal,Onboarding Flow,Major,Medium,New,Olivia Johnson,
+TS-082,2026-05-12,Core HR Portal,Payroll,Minor,Low,Ready for QA,Jessica Cox,
+TS-083,2026-05-16,Titan Analytics Dashboard,User Permissions,Minor,Low,Ready for QA,Leonard Thomas,
+TS-084,2026-04-15,Alpha Mobile App,UI Layout,Major,Medium,Ready for QA,Olivia Johnson,
+TS-085,2026-04-13,Titan Analytics Dashboard,User Permissions,Minor,Low,Closed,Nathan Smith,2026-04-22
+TS-086,2026-03-18,Nexus E-Commerce,Payment Gateway,Major,Low,New,Olivia Johnson,
+TS-087,2026-05-02,Alpha Mobile App,UI Layout,Critical,Medium,In Progress,Matthew Lambert,
+TS-088,2026-05-22,Core HR Portal,Onboarding Flow,Major,Medium,In Progress,Olivia Johnson,
+TS-089,2026-05-22,Titan Analytics Dashboard,Data Export,Major,Low,Ready for QA,Jessica Cox,
+TS-090,2026-03-08,Alpha Mobile App,Push Notifications,Minor,Medium,Resolved,Matthew Lambert,2026-03-12
+TS-091,2026-05-04,Nexus E-Commerce,Product Search,Major,Medium,Resolved,Nathan Smith,2026-05-08
+TS-092,2026-04-28,Core HR Portal,Onboarding Flow,Minor,Medium,Resolved,Travis Torres,2026-05-01
+TS-093,2026-05-17,Titan Analytics Dashboard,Data Export,Major,Medium,Ready for QA,Olivia Johnson,
+TS-094,2026-03-10,Core HR Portal,Leave Request,Critical,High,New,Shannon Berry,
+TS-095,2026-04-17,Nexus E-Commerce,Checkout,Major,Medium,Resolved,Travis Torres,2026-04-26
+TS-096,2026-05-30,Titan Analytics Dashboard,Data Export,Minor,Low,New,Jessica Cox,
+TS-097,2026-04-10,Core HR Portal,Leave Request,Major,Low,Ready for QA,Shannon Berry,
+TS-098,2026-05-29,Core HR Portal,Performance Review,Major,Low,Ready for QA,Jessica Cox,
+TS-099,2026-04-04,Alpha Mobile App,Push Notifications,Major,Medium,In Progress,Maria Martin,
+TS-100,2026-04-01,Core HR Portal,Onboarding Flow,Blocker,High,In Progress,Matthew Lambert,
+TS-101,2026-05-08,Titan Analytics Dashboard,API Ingestion,Major,Low,Resolved,Shannon Berry,2026-05-17
+TS-102,2026-04-17,Nexus E-Commerce,Product Search,Critical,Medium,Ready for QA,Matthew Lambert,
+TS-103,2026-05-12,Core HR Portal,Performance Review,Major,High,New,Matthew Lambert,
+TS-104,2026-05-01,Core HR Portal,Leave Request,Major,Low,In Progress,Leonard Thomas,
+TS-105,2026-05-19,Titan Analytics Dashboard,User Permissions,Minor,Low,In Progress,Maria Martin,
+TS-106,2026-04-12,Titan Analytics Dashboard,API Ingestion,Major,High,Resolved,Jessica Cox,2026-04-14
+TS-107,2026-04-03,Alpha Mobile App,Camera Integration,Major,Medium,In Progress,Nathan Smith,
+TS-108,2026-05-07,Titan Analytics Dashboard,Data Export,Minor,Low,In Progress,Matthew Gomez,
+TS-109,2026-03-15,Titan Analytics Dashboard,Data Export,Minor,Medium,In Progress,Crystal Rasmussen,
+TS-110,2026-03-31,Titan Analytics Dashboard,Chart Rendering,Major,Medium,New,Crystal Rasmussen,
+TS-111,2026-04-04,Titan Analytics Dashboard,User Permissions,Major,Medium,In Progress,Crystal Rasmussen,
+TS-112,2026-05-16,Titan Analytics Dashboard,User Permissions,Critical,High,In Progress,Travis Torres,
+TS-113,2026-03-31,Nexus E-Commerce,Product Search,Critical,Medium,New,Matthew Lambert,
+TS-114,2026-05-25,Nexus E-Commerce,Payment Gateway,Major,Low,In Progress,Leonard Thomas,
+TS-115,2026-05-21,Core HR Portal,Performance Review,Minor,Low,Closed,Olivia Johnson,2026-05-26
+TS-116,2026-05-03,Nexus E-Commerce,Checkout,Minor,Medium,Resolved,Shannon Berry,2026-05-05
+TS-117,2026-04-11,Alpha Mobile App,Camera Integration,Critical,High,In Progress,Olivia Johnson,
+TS-118,2026-05-01,Core HR Portal,Performance Review,Major,High,In Progress,Shannon Berry,
+TS-119,2026-03-04,Core HR Portal,Payroll,Major,Medium,Resolved,Nathan Smith,2026-03-08
+TS-120,2026-05-09,Core HR Portal,Payroll,Major,Low,New,Shannon Berry,
+TS-121,2026-03-20,Alpha Mobile App,Push Notifications,Critical,Medium,Ready for QA,Nathan Smith,
+TS-122,2026-03-27,Titan Analytics Dashboard,User Permissions,Critical,Medium,Resolved,Shannon Berry,2026-04-05
+TS-123,2026-04-17,Core HR Portal,Performance Review,Critical,High,Closed,Jessica Cox,2026-04-27
+TS-124,2026-05-08,Titan Analytics Dashboard,Data Export,Critical,High,Closed,Shannon Berry,2026-05-18
+TS-125,2026-04-28,Nexus E-Commerce,Product Search,Major,Low,In Progress,Shannon Berry,
+TS-126,2026-04-21,Alpha Mobile App,UI Layout,Major,Medium,Closed,Maria Martin,2026-04-27
+TS-127,2026-03-17,Core HR Portal,Onboarding Flow,Major,High,Closed,Jessica Cox,2026-03-24
+TS-128,2026-05-17,Core HR Portal,Onboarding Flow,Major,Medium,Closed,Leonard Thomas,2026-05-18
+TS-129,2026-03-23,Core HR Portal,Payroll,Major,Medium,New,Olivia Johnson,
+TS-130,2026-04-17,Nexus E-Commerce,Payment Gateway,Major,High,Ready for QA,Nathan Smith,
+TS-131,2026-05-20,Core HR Portal,Performance Review,Minor,Medium,In Progress,Matthew Gomez,
+TS-132,2026-04-18,Titan Analytics Dashboard,User Permissions,Minor,Low,New,Nathan Smith,
+TS-133,2026-05-27,Alpha Mobile App,Camera Integration,Major,High,Ready for QA,Travis Torres,
+TS-134,2026-03-07,Alpha Mobile App,Push Notifications,Major,High,Resolved,Matthew Gomez,2026-03-15
+TS-135,2026-03-24,Titan Analytics Dashboard,API Ingestion,Major,Medium,Closed,Matthew Lambert,2026-04-01
+TS-136,2026-05-26,Alpha Mobile App,UI Layout,Critical,High,Closed,Shannon Berry,2026-05-31
+TS-137,2026-04-18,Titan Analytics Dashboard,API Ingestion,Minor,Low,Resolved,Nathan Smith,2026-04-28
+TS-138,2026-04-14,Core HR Portal,Leave Request,Major,Medium,In Progress,Leonard Thomas,
+TS-139,2026-03-21,Core HR Portal,Performance Review,Minor,Medium,Closed,Matthew Lambert,2026-03-31
+TS-140,2026-05-10,Core HR Portal,Leave Request,Minor,Low,New,Maria Martin,
+TS-141,2026-04-10,Core HR Portal,Performance Review,Minor,Medium,Ready for QA,Crystal Rasmussen,
+TS-142,2026-05-14,Alpha Mobile App,Offline Mode,Minor,Low,New,Maria Martin,
+TS-143,2026-05-12,Nexus E-Commerce,Product Search,Major,Low,Closed,Travis Torres,2026-05-20
+TS-144,2026-05-08,Titan Analytics Dashboard,API Ingestion,Major,Medium,Resolved,Jessica Cox,2026-05-17
+TS-145,2026-03-02,Core HR Portal,Onboarding Flow,Major,Medium,Closed,Crystal Rasmussen,2026-03-12
+TS-146,2026-04-25,Nexus E-Commerce,Product Search,Major,Medium,Closed,Travis Torres,2026-05-02
+TS-147,2026-05-09,Nexus E-Commerce,Checkout,Major,Low,In Progress,Crystal Rasmussen,
+TS-148,2026-04-22,Nexus E-Commerce,User Auth,Minor,Low,In Progress,Olivia Johnson,
+TS-149,2026-04-17,Alpha Mobile App,Camera Integration,Major,Low,Resolved,Matthew Gomez,2026-04-20
+TS-150,2026-04-01,Alpha Mobile App,Push Notifications,Major,Medium,Resolved,Matthew Lambert,2026-04-09
+TS-151,2026-05-17,Alpha Mobile App,Camera Integration,Major,Medium,Ready for QA,Crystal Rasmussen,
+TS-152,2026-04-14,Core HR Portal,Onboarding Flow,Major,High,New,Jessica Cox,
+TS-153,2026-05-16,Titan Analytics Dashboard,User Permissions,Major,Medium,Closed,Matthew Lambert,2026-05-23
+TS-154,2026-04-01,Core HR Portal,Payroll,Major,Low,In Progress,Shannon Berry,
+TS-155,2026-05-20,Titan Analytics Dashboard,Data Export,Minor,Low,In Progress,Nathan Smith,
+TS-156,2026-04-14,Nexus E-Commerce,Payment Gateway,Minor,Low,Resolved,Matthew Lambert,2026-04-24
+TS-157,2026-05-02,Titan Analytics Dashboard,Chart Rendering,Major,Low,In Progress,Matthew Gomez,
+TS-158,2026-05-01,Nexus E-Commerce,Checkout,Major,Medium,New,Jessica Cox,
+TS-159,2026-04-05,Alpha Mobile App,Push Notifications,Minor,Low,Resolved,Matthew Gomez,2026-04-09
+TS-160,2026-05-23,Alpha Mobile App,Offline Mode,Major,Medium,Closed,Shannon Berry,2026-05-31
+TS-161,2026-03-07,Titan Analytics Dashboard,API Ingestion,Minor,Low,Closed,Matthew Gomez,2026-03-11
+TS-162,2026-03-06,Core HR Portal,Onboarding Flow,Critical,Medium,New,Leonard Thomas,
+TS-163,2026-03-08,Nexus E-Commerce,Payment Gateway,Major,Low,Resolved,Nathan Smith,2026-03-15
+TS-164,2026-05-01,Titan Analytics Dashboard,Data Export,Major,Medium,New,Leonard Thomas,
+TS-165,2026-03-06,Titan Analytics Dashboard,Chart Rendering,Major,Low,Closed,Shannon Berry,2026-03-13
+TS-166,2026-04-23,Nexus E-Commerce,Product Search,Blocker,High,In Progress,Maria Martin,
+TS-167,2026-03-17,Nexus E-Commerce,Checkout,Major,Low,New,Maria Martin,
+TS-168,2026-03-30,Titan Analytics Dashboard,User Permissions,Major,Low,In Progress,Olivia Johnson,
+TS-169,2026-05-09,Nexus E-Commerce,Payment Gateway,Major,Medium,New,Jessica Cox,
+TS-170,2026-03-02,Alpha Mobile App,UI Layout,Major,High,Closed,Travis Torres,2026-03-08
+TS-171,2026-04-17,Titan Analytics Dashboard,Data Export,Major,High,Closed,Maria Martin,2026-04-19
+TS-172,2026-03-29,Alpha Mobile App,Push Notifications,Critical,Medium,In Progress,Matthew Gomez,
+TS-173,2026-03-14,Alpha Mobile App,Push Notifications,Minor,Medium,Ready for QA,Matthew Lambert,
+TS-174,2026-03-06,Titan Analytics Dashboard,Chart Rendering,Minor,Medium,In Progress,Matthew Gomez,
+TS-175,2026-03-22,Alpha Mobile App,Offline Mode,Minor,Medium,Resolved,Crystal Rasmussen,2026-03-25
+TS-176,2026-05-20,Nexus E-Commerce,User Auth,Minor,Medium,Ready for QA,Crystal Rasmussen,
+TS-177,2026-05-19,Alpha Mobile App,Offline Mode,Critical,Medium,Ready for QA,Travis Torres,
+TS-178,2026-05-25,Core HR Portal,Performance Review,Minor,Medium,Ready for QA,Matthew Lambert,
+TS-179,2026-05-17,Nexus E-Commerce,User Auth,Major,High,New,Maria Martin,
+TS-180,2026-05-03,Core HR Portal,Performance Review,Major,Medium,Resolved,Maria Martin,2026-05-05
+TS-181,2026-05-09,Nexus E-Commerce,User Auth,Major,High,New,Nathan Smith,
+TS-182,2026-05-05,Titan Analytics Dashboard,User Permissions,Minor,Low,Ready for QA,Nathan Smith,
+TS-183,2026-03-24,Core HR Portal,Payroll,Minor,Medium,Closed,Leonard Thomas,2026-03-28
+TS-184,2026-04-13,Core HR Portal,Performance Review,Minor,Low,In Progress,Maria Martin,
+TS-185,2026-05-22,Core HR Portal,Performance Review,Minor,Low,In Progress,Shannon Berry,
+TS-186,2026-03-09,Titan Analytics Dashboard,Chart Rendering,Major,Medium,New,Travis Torres,
+TS-187,2026-03-22,Nexus E-Commerce,Payment Gateway,Critical,Medium,Closed,Leonard Thomas,2026-03-23
+TS-188,2026-03-06,Titan Analytics Dashboard,Data Export,Major,Low,Closed,Olivia Johnson,2026-03-07
+TS-189,2026-05-19,Titan Analytics Dashboard,API Ingestion,Major,Low,Ready for QA,Matthew Gomez,
+TS-190,2026-03-04,Core HR Portal,Leave Request,Minor,Low,Closed,Jessica Cox,2026-03-06
+TS-191,2026-04-30,Titan Analytics Dashboard,Chart Rendering,Minor,Medium,Resolved,Shannon Berry,2026-05-01
+TS-192,2026-04-03,Alpha Mobile App,Offline Mode,Minor,Low,Closed,Jessica Cox,2026-04-04
+TS-193,2026-04-12,Alpha Mobile App,Camera Integration,Major,Medium,New,Crystal Rasmussen,
+TS-194,2026-04-01,Nexus E-Commerce,Product Search,Major,Medium,In Progress,Jessica Cox,
+TS-195,2026-04-07,Titan Analytics Dashboard,API Ingestion,Minor,Medium,Closed,Matthew Gomez,2026-04-10
+TS-196,2026-03-26,Nexus E-Commerce,Checkout,Major,Low,In Progress,Nathan Smith,
+TS-197,2026-03-06,Core HR Portal,Performance Review,Major,Low,New,Olivia Johnson,
+TS-198,2026-05-25,Nexus E-Commerce,User Auth,Major,Low,Ready for QA,Shannon Berry,
+TS-199,2026-04-03,Nexus E-Commerce,Product Search,Major,Low,New,Matthew Lambert,
+TS-200,2026-05-05,Titan Analytics Dashboard,Chart Rendering,Minor,Low,In Progress,Travis Torres,
+TS-201,2026-05-12,Nexus E-Commerce,Payment Gateway,Minor,Medium,New,Leonard Thomas,
+TS-202,2026-03-25,Alpha Mobile App,Offline Mode,Critical,High,In Progress,Maria Martin,
+TS-203,2026-05-02,Nexus E-Commerce,User Auth,Major,Low,In Progress,Olivia Johnson,
+TS-204,2026-05-16,Titan Analytics Dashboard,Data Export,Major,Medium,In Progress,Nathan Smith,
+TS-205,2026-04-02,Core HR Portal,Onboarding Flow,Critical,High,In Progress,Nathan Smith,
+TS-206,2026-04-14,Core HR Portal,Payroll,Major,Medium,Resolved,Matthew Lambert,2026-04-20
+TS-207,2026-04-06,Alpha Mobile App,Push Notifications,Major,High,Ready for QA,Matthew Lambert,
+TS-208,2026-03-23,Titan Analytics Dashboard,API Ingestion,Minor,Medium,In Progress,Matthew Gomez,
+TS-209,2026-04-29,Titan Analytics Dashboard,Chart Rendering,Critical,High,Resolved,Travis Torres,2026-05-02
+TS-210,2026-05-15,Core HR Portal,Performance Review,Minor,Low,Resolved,Nathan Smith,2026-05-25
+TS-211,2026-04-02,Titan Analytics Dashboard,API Ingestion,Critical,High,Ready for QA,Shannon Berry,
+TS-212,2026-04-28,Titan Analytics Dashboard,Data Export,Major,High,In Progress,Maria Martin,
+TS-213,2026-03-17,Nexus E-Commerce,Checkout,Major,Medium,New,Travis Torres,
+TS-214,2026-03-29,Core HR Portal,Performance Review,Major,Low,Closed,Maria Martin,2026-04-08
+TS-215,2026-03-10,Alpha Mobile App,Offline Mode,Major,Low,In Progress,Crystal Rasmussen,
+TS-216,2026-05-22,Core HR Portal,Payroll,Minor,Low,Closed,Travis Torres,2026-05-31
+TS-217,2026-04-06,Alpha Mobile App,Push Notifications,Major,Medium,Closed,Leonard Thomas,2026-04-15
+TS-218,2026-03-27,Alpha Mobile App,Offline Mode,Major,Medium,In Progress,Jessica Cox,
+TS-219,2026-04-19,Nexus E-Commerce,User Auth,Critical,High,Ready for QA,Olivia Johnson,
+TS-220,2026-04-18,Titan Analytics Dashboard,API Ingestion,Minor,Medium,In Progress,Nathan Smith,
+TS-221,2026-03-04,Alpha Mobile App,Offline Mode,Major,Low,Resolved,Olivia Johnson,2026-03-07
+TS-222,2026-03-26,Nexus E-Commerce,User Auth,Major,Low,Resolved,Matthew Gomez,2026-04-04
+TS-223,2026-03-04,Nexus E-Commerce,Payment Gateway,Major,High,In Progress,Matthew Gomez,
+TS-224,2026-05-15,Alpha Mobile App,Offline Mode,Minor,Low,In Progress,Matthew Gomez,
+TS-225,2026-04-09,Alpha Mobile App,Push Notifications,Major,High,Ready for QA,Leonard Thomas,
+TS-226,2026-03-26,Nexus E-Commerce,User Auth,Minor,Medium,Ready for QA,Matthew Gomez,
+TS-227,2026-05-22,Alpha Mobile App,Camera Integration,Minor,Medium,Resolved,Crystal Rasmussen,2026-05-29
+TS-228,2026-04-24,Titan Analytics Dashboard,Chart Rendering,Minor,Low,Resolved,Maria Martin,2026-04-28
+TS-229,2026-05-29,Alpha Mobile App,Offline Mode,Minor,Low,Closed,Matthew Lambert,2026-05-31
+TS-230,2026-03-24,Core HR Portal,Performance Review,Minor,Low,Ready for QA,Olivia Johnson,
+TS-231,2026-05-14,Alpha Mobile App,Camera Integration,Minor,Medium,Closed,Crystal Rasmussen,2026-05-22
+TS-232,2026-04-03,Titan Analytics Dashboard,Data Export,Minor,Medium,In Progress,Matthew Gomez,
+TS-233,2026-05-06,Titan Analytics Dashboard,User Permissions,Minor,Medium,Closed,Travis Torres,2026-05-10
+TS-234,2026-04-30,Core HR Portal,Onboarding Flow,Minor,Low,New,Leonard Thomas,
+TS-235,2026-04-03,Titan Analytics Dashboard,Chart Rendering,Major,High,In Progress,Crystal Rasmussen,
+TS-236,2026-03-23,Titan Analytics Dashboard,Data Export,Minor,Low,Resolved,Matthew Gomez,2026-03-24
+TS-237,2026-03-29,Titan Analytics Dashboard,User Permissions,Major,High,Resolved,Maria Martin,2026-04-06
+TS-238,2026-04-06,Nexus E-Commerce,Checkout,Blocker,High,Closed,Leonard Thomas,2026-04-16
+TS-239,2026-03-24,Core HR Portal,Payroll,Minor,Medium,In Progress,Crystal Rasmussen,
+TS-240,2026-04-06,Alpha Mobile App,UI Layout,Major,Low,Ready for QA,Travis Torres,
+TS-241,2026-03-10,Core HR Portal,Payroll,Major,Low,In Progress,Matthew Gomez,
+TS-242,2026-04-29,Titan Analytics Dashboard,User Permissions,Blocker,High,In Progress,Olivia Johnson,
+TS-243,2026-03-09,Alpha Mobile App,Push Notifications,Major,Medium,New,Leonard Thomas,
+TS-244,2026-05-08,Nexus E-Commerce,Payment Gateway,Minor,Medium,Resolved,Jessica Cox,2026-05-13
+TS-245,2026-05-05,Nexus E-Commerce,User Auth,Minor,Low,In Progress,Travis Torres,
+TS-246,2026-03-30,Titan Analytics Dashboard,Chart Rendering,Blocker,High,Closed,Matthew Gomez,2026-04-07
+TS-247,2026-05-10,Core HR Portal,Leave Request,Minor,Medium,Resolved,Maria Martin,2026-05-11
+TS-248,2026-03-26,Titan Analytics Dashboard,Chart Rendering,Blocker,High,Closed,Jessica Cox,2026-03-31
+TS-249,2026-03-19,Core HR Portal,Performance Review,Major,Low,In Progress,Jessica Cox,
+TS-250,2026-05-28,Nexus E-Commerce,User Auth,Major,Medium,In Progress,Olivia Johnson,
+TS-251,2026-05-11,Core HR Portal,Performance Review,Major,High,Ready for QA,Maria Martin,
+TS-252,2026-03-29,Titan Analytics Dashboard,API Ingestion,Minor,Low,New,Nathan Smith,
+TS-253,2026-03-08,Alpha Mobile App,Offline Mode,Major,High,In Progress,Shannon Berry,
+TS-254,2026-03-30,Titan Analytics Dashboard,User Permissions,Major,Medium,In Progress,Maria Martin,
+TS-255,2026-05-25,Titan Analytics Dashboard,User Permissions,Blocker,High,Resolved,Olivia Johnson,2026-05-30
+TS-256,2026-03-10,Nexus E-Commerce,Checkout,Major,Medium,In Progress,Matthew Gomez,
+TS-257,2026-05-14,Nexus E-Commerce,Product Search,Minor,Low,New,Travis Torres,
+TS-258,2026-04-15,Alpha Mobile App,Offline Mode,Major,Low,New,Matthew Gomez,
+TS-259,2026-05-29,Core HR Portal,Onboarding Flow,Major,High,Ready for QA,Leonard Thomas,
+TS-260,2026-03-13,Titan Analytics Dashboard,User Permissions,Major,Medium,In Progress,Travis Torres,
+TS-261,2026-04-21,Nexus E-Commerce,Product Search,Major,Medium,Closed,Travis Torres,2026-04-26
+TS-262,2026-04-27,Titan Analytics Dashboard,User Permissions,Major,Low,In Progress,Maria Martin,
+TS-263,2026-04-03,Alpha Mobile App,Push Notifications,Critical,High,Ready for QA,Maria Martin,
+TS-264,2026-03-19,Nexus E-Commerce,User Auth,Major,Low,New,Leonard Thomas,
+TS-265,2026-04-28,Titan Analytics Dashboard,API Ingestion,Minor,Medium,Resolved,Leonard Thomas,2026-05-02
+TS-266,2026-03-17,Nexus E-Commerce,Product Search,Minor,Medium,Resolved,Crystal Rasmussen,2026-03-23
+TS-267,2026-04-11,Titan Analytics Dashboard,User Permissions,Minor,Medium,Resolved,Travis Torres,2026-04-13
+TS-268,2026-03-22,Titan Analytics Dashboard,User Permissions,Minor,Low,Ready for QA,Olivia Johnson,
+TS-269,2026-05-09,Nexus E-Commerce,Product Search,Minor,Medium,In Progress,Leonard Thomas,
+TS-270,2026-03-21,Titan Analytics Dashboard,Chart Rendering,Minor,Medium,Resolved,Matthew Gomez,2026-03-28
+TS-271,2026-03-24,Nexus E-Commerce,Checkout,Major,Medium,In Progress,Jessica Cox,
+TS-272,2026-05-08,Alpha Mobile App,Offline Mode,Minor,Low,Closed,Shannon Berry,2026-05-12
+TS-273,2026-05-13,Titan Analytics Dashboard,Chart Rendering,Major,Low,Ready for QA,Leonard Thomas,
+TS-274,2026-04-17,Alpha Mobile App,Camera Integration,Critical,Medium,Closed,Nathan Smith,2026-04-18
+TS-275,2026-03-13,Nexus E-Commerce,Checkout,Blocker,High,Resolved,Nathan Smith,2026-03-20
+TS-276,2026-05-14,Nexus E-Commerce,Payment Gateway,Minor,Low,Resolved,Shannon Berry,2026-05-22
+TS-277,2026-03-06,Alpha Mobile App,UI Layout,Major,High,Resolved,Matthew Gomez,2026-03-14
+TS-278,2026-04-18,Core HR Portal,Performance Review,Major,Medium,Resolved,Jessica Cox,2026-04-24
+TS-279,2026-05-21,Titan Analytics Dashboard,User Permissions,Critical,Medium,Ready for QA,Travis Torres,
+TS-280,2026-04-26,Titan Analytics Dashboard,Chart Rendering,Major,Medium,In Progress,Matthew Gomez,
+TS-281,2026-05-29,Nexus E-Commerce,Checkout,Major,Medium,Closed,Olivia Johnson,2026-05-31
+TS-282,2026-03-11,Alpha Mobile App,Offline Mode,Minor,Low,In Progress,Matthew Gomez,
+TS-283,2026-05-21,Core HR Portal,Performance Review,Major,Medium,Ready for QA,Travis Torres,
+TS-284,2026-04-21,Core HR Portal,Performance Review,Minor,Medium,Ready for QA,Crystal Rasmussen,
+TS-285,2026-05-07,Nexus E-Commerce,User Auth,Major,Low,Resolved,Shannon Berry,2026-05-16
+TS-286,2026-04-02,Nexus E-Commerce,Checkout,Major,Medium,Resolved,Olivia Johnson,2026-04-08
+TS-287,2026-03-06,Nexus E-Commerce,Payment Gateway,Critical,High,In Progress,Shannon Berry,
+TS-288,2026-03-19,Nexus E-Commerce,Payment Gateway,Major,Low,In Progress,Nathan Smith,
+TS-289,2026-04-29,Nexus E-Commerce,Product Search,Minor,Low,In Progress,Jessica Cox,
+TS-290,2026-03-27,Titan Analytics Dashboard,Chart Rendering,Critical,Medium,Ready for QA,Crystal Rasmussen,
+TS-291,2026-05-03,Nexus E-Commerce,Product Search,Minor,Low,Ready for QA,Matthew Gomez,
+TS-292,2026-05-09,Alpha Mobile App,Offline Mode,Minor,Low,In Progress,Nathan Smith,
+TS-293,2026-05-18,Titan Analytics Dashboard,API Ingestion,Major,Low,Ready for QA,Nathan Smith,
+TS-294,2026-05-30,Titan Analytics Dashboard,User Permissions,Minor,Low,In Progress,Travis Torres,
+TS-295,2026-03-31,Core HR Portal,Onboarding Flow,Minor,Medium,Ready for QA,Shannon Berry,
+TS-296,2026-03-07,Alpha Mobile App,Push Notifications,Major,High,Ready for QA,Nathan Smith,
+TS-297,2026-05-27,Core HR Portal,Leave Request,Minor,Medium,New,Travis Torres,
+TS-298,2026-04-17,Alpha Mobile App,Push Notifications,Major,Medium,In Progress,Matthew Lambert,
+TS-299,2026-03-27,Core HR Portal,Performance Review,Minor,Medium,Resolved,Leonard Thomas,2026-03-31
+TS-300,2026-05-19,Titan Analytics Dashboard,User Permissions,Major,Medium,Closed,Maria Martin,2026-05-28
+TS-301,2026-05-02,Titan Analytics Dashboard,API Ingestion,Major,Low,Resolved,Shannon Berry,2026-05-12
+TS-302,2026-04-18,Core HR Portal,Leave Request,Minor,Low,Ready for QA,Matthew Lambert,
+TS-303,2026-04-21,Titan Analytics Dashboard,API Ingestion,Minor,Low,In Progress,Jessica Cox,
+TS-304,2026-05-09,Titan Analytics Dashboard,API Ingestion,Critical,Medium,Closed,Olivia Johnson,2026-05-15
+TS-305,2026-05-23,Alpha Mobile App,Offline Mode,Blocker,High,In Progress,Maria Martin,
+TS-306,2026-05-25,Titan Analytics Dashboard,User Permissions,Major,Low,In Progress,Leonard Thomas,
+TS-307,2026-04-22,Titan Analytics Dashboard,Chart Rendering,Critical,High,In Progress,Leonard Thomas,
+TS-308,2026-05-09,Alpha Mobile App,Camera Integration,Critical,Medium,In Progress,Maria Martin,
+TS-309,2026-04-03,Nexus E-Commerce,Product Search,Blocker,High,In Progress,Maria Martin,
+TS-310,2026-05-25,Core HR Portal,Leave Request,Minor,Low,In Progress,Crystal Rasmussen,
+TS-311,2026-04-04,Nexus E-Commerce,Product Search,Major,Low,Closed,Crystal Rasmussen,2026-04-07
+TS-312,2026-05-22,Core HR Portal,Leave Request,Minor,Medium,Closed,Olivia Johnson,2026-05-30
+TS-313,2026-03-25,Alpha Mobile App,Offline Mode,Minor,Medium,In Progress,Nathan Smith,
+TS-314,2026-03-29,Nexus E-Commerce,User Auth,Major,Low,Ready for QA,Maria Martin,
+TS-315,2026-04-26,Alpha Mobile App,UI Layout,Major,High,In Progress,Maria Martin,
+TS-316,2026-03-12,Titan Analytics Dashboard,Chart Rendering,Blocker,High,Resolved,Nathan Smith,2026-03-16
+TS-317,2026-05-05,Alpha Mobile App,UI Layout,Minor,Low,New,Travis Torres,
+TS-318,2026-03-27,Alpha Mobile App,Camera Integration,Major,High,New,Olivia Johnson,
+TS-319,2026-03-31,Alpha Mobile App,UI Layout,Minor,Low,In Progress,Nathan Smith,
+TS-320,2026-04-28,Nexus E-Commerce,User Auth,Major,Low,In Progress,Travis Torres,
+TS-321,2026-05-21,Core HR Portal,Onboarding Flow,Critical,Medium,Resolved,Shannon Berry,2026-05-27
+TS-322,2026-03-08,Alpha Mobile App,Camera Integration,Minor,Low,In Progress,Nathan Smith,
+TS-323,2026-04-30,Titan Analytics Dashboard,User Permissions,Minor,Low,Resolved,Matthew Lambert,2026-05-04
+TS-324,2026-04-21,Nexus E-Commerce,Payment Gateway,Major,Medium,New,Nathan Smith,
+TS-325,2026-03-29,Nexus E-Commerce,Checkout,Minor,Medium,Ready for QA,Matthew Gomez,
+TS-326,2026-03-29,Alpha Mobile App,Offline Mode,Minor,Low,New,Matthew Lambert,
+TS-327,2026-04-22,Core HR Portal,Payroll,Minor,Low,Closed,Maria Martin,2026-04-25
+TS-328,2026-05-19,Core HR Portal,Performance Review,Major,Low,Ready for QA,Shannon Berry,
+TS-329,2026-03-22,Nexus E-Commerce,Payment Gateway,Major,High,Resolved,Nathan Smith,2026-03-24
+TS-330,2026-05-16,Nexus E-Commerce,Payment Gateway,Major,High,Ready for QA,Crystal Rasmussen,
+TS-331,2026-05-06,Nexus E-Commerce,Payment Gateway,Blocker,High,In Progress,Matthew Gomez,
+TS-332,2026-05-02,Core HR Portal,Onboarding Flow,Minor,Low,In Progress,Olivia Johnson,
+TS-333,2026-04-03,Core HR Portal,Payroll,Major,Low,Closed,Matthew Gomez,2026-04-09
+TS-334,2026-05-23,Nexus E-Commerce,Product Search,Minor,Low,Ready for QA,Matthew Lambert,
+TS-335,2026-04-11,Nexus E-Commerce,Checkout,Minor,Low,Resolved,Leonard Thomas,2026-04-18
+TS-336,2026-05-28,Core HR Portal,Leave Request,Major,Medium,In Progress,Matthew Lambert,
+TS-337,2026-05-28,Nexus E-Commerce,Checkout,Minor,Low,Resolved,Crystal Rasmussen,2026-05-31
+TS-338,2026-04-01,Alpha Mobile App,Push Notifications,Critical,High,In Progress,Crystal Rasmussen,
+TS-339,2026-05-02,Alpha Mobile App,Push Notifications,Major,High,Ready for QA,Crystal Rasmussen,
+TS-340,2026-04-01,Alpha Mobile App,Offline Mode,Major,Low,Ready for QA,Nathan Smith,
+TS-341,2026-04-03,Titan Analytics Dashboard,Chart Rendering,Major,High,Closed,Leonard Thomas,2026-04-07
+TS-342,2026-04-30,Core HR Portal,Onboarding Flow,Major,Low,Closed,Matthew Gomez,2026-05-07
+TS-343,2026-04-07,Core HR Portal,Payroll,Minor,Low,Resolved,Jessica Cox,2026-04-14
+TS-344,2026-03-23,Core HR Portal,Leave Request,Major,High,Resolved,Maria Martin,2026-03-27
+TS-345,2026-05-22,Alpha Mobile App,Offline Mode,Minor,Medium,Closed,Crystal Rasmussen,2026-05-31
+TS-346,2026-05-21,Core HR Portal,Performance Review,Major,High,In Progress,Shannon Berry,
+TS-347,2026-05-11,Alpha Mobile App,Offline Mode,Major,Medium,Closed,Travis Torres,2026-05-20
+TS-348,2026-04-14,Alpha Mobile App,Push Notifications,Major,Low,Resolved,Crystal Rasmussen,2026-04-16
+TS-349,2026-04-05,Alpha Mobile App,Camera Integration,Major,Medium,In Progress,Crystal Rasmussen,
+TS-350,2026-04-01,Alpha Mobile App,Camera Integration,Minor,Medium,Resolved,Maria Martin,2026-04-05
+TS-351,2026-03-06,Alpha Mobile App,UI Layout,Minor,Low,Resolved,Olivia Johnson,2026-03-14
+TS-352,2026-05-22,Titan Analytics Dashboard,API Ingestion,Major,Low,Closed,Maria Martin,2026-05-24
+TS-353,2026-03-09,Core HR Portal,Onboarding Flow,Minor,Low,In Progress,Crystal Rasmussen,
+TS-354,2026-05-29,Alpha Mobile App,Camera Integration,Blocker,High,In Progress,Matthew Lambert,
+TS-355,2026-05-04,Titan Analytics Dashboard,Chart Rendering,Major,High,Ready for QA,Jessica Cox,
+TS-356,2026-05-21,Titan Analytics Dashboard,User Permissions,Minor,Low,Ready for QA,Jessica Cox,
+TS-357,2026-03-05,Alpha Mobile App,Camera Integration,Minor,Low,In Progress,Leonard Thomas,
+TS-358,2026-05-14,Nexus E-Commerce,Checkout,Minor,Medium,Closed,Crystal Rasmussen,2026-05-15
+TS-359,2026-03-19,Core HR Portal,Leave Request,Minor,Medium,New,Matthew Gomez,
+TS-360,2026-05-01,Nexus E-Commerce,Product Search,Major,Medium,New,Nathan Smith,
+TS-361,2026-03-21,Core HR Portal,Performance Review,Blocker,High,New,Leonard Thomas,
+TS-362,2026-03-13,Titan Analytics Dashboard,API Ingestion,Blocker,High,Closed,Matthew Gomez,2026-03-15
+TS-363,2026-04-08,Nexus E-Commerce,Product Search,Major,Low,Ready for QA,Jessica Cox,
+TS-364,2026-05-02,Titan Analytics Dashboard,User Permissions,Critical,Medium,Ready for QA,Matthew Lambert,
+TS-365,2026-05-28,Alpha Mobile App,Offline Mode,Major,High,Resolved,Crystal Rasmussen,2026-05-30
+TS-366,2026-05-07,Core HR Portal,Performance Review,Major,Medium,New,Crystal Rasmussen,
+TS-367,2026-05-03,Alpha Mobile App,Push Notifications,Major,Medium,Resolved,Jessica Cox,2026-05-13
+TS-368,2026-04-30,Nexus E-Commerce,Checkout,Major,Low,Closed,Maria Martin,2026-05-05
+TS-369,2026-05-25,Nexus E-Commerce,Checkout,Major,Medium,Closed,Nathan Smith,2026-05-26
+TS-370,2026-05-11,Alpha Mobile App,Offline Mode,Blocker,High,Ready for QA,Olivia Johnson,
+TS-371,2026-03-14,Nexus E-Commerce,User Auth,Critical,High,Ready for QA,Olivia Johnson,
+TS-372,2026-04-13,Titan Analytics Dashboard,User Permissions,Minor,Medium,Resolved,Travis Torres,2026-04-22
+TS-373,2026-05-28,Titan Analytics Dashboard,Data Export,Critical,High,Closed,Jessica Cox,2026-05-31
+TS-374,2026-04-03,Core HR Portal,Onboarding Flow,Blocker,High,Resolved,Maria Martin,2026-04-11
+TS-375,2026-03-03,Alpha Mobile App,Offline Mode,Major,Medium,In Progress,Nathan Smith,
+TS-376,2026-04-07,Core HR Portal,Payroll,Minor,Low,Resolved,Travis Torres,2026-04-09
+TS-377,2026-04-21,Titan Analytics Dashboard,Chart Rendering,Major,Low,In Progress,Olivia Johnson,
+TS-378,2026-05-09,Titan Analytics Dashboard,API Ingestion,Critical,High,Closed,Maria Martin,2026-05-15
+TS-379,2026-04-11,Titan Analytics Dashboard,Data Export,Critical,High,In Progress,Leonard Thomas,
+TS-380,2026-04-13,Core HR Portal,Payroll,Blocker,High,Ready for QA,Nathan Smith,
+TS-381,2026-04-27,Titan Analytics Dashboard,User Permissions,Blocker,High,In Progress,Travis Torres,
+TS-382,2026-04-10,Alpha Mobile App,Camera Integration,Major,High,New,Shannon Berry,
+TS-383,2026-05-05,Titan Analytics Dashboard,User Permissions,Critical,High,In Progress,Olivia Johnson,
+TS-384,2026-03-19,Titan Analytics Dashboard,User Permissions,Minor,Low,In Progress,Matthew Lambert,
+TS-385,2026-03-22,Core HR Portal,Leave Request,Major,High,In Progress,Olivia Johnson,
+TS-386,2026-03-12,Titan Analytics Dashboard,User Permissions,Minor,Low,In Progress,Olivia Johnson,
+TS-387,2026-03-11,Alpha Mobile App,Offline Mode,Major,Low,In Progress,Jessica Cox,
+TS-388,2026-04-05,Alpha Mobile App,UI Layout,Minor,Low,Resolved,Maria Martin,2026-04-15
+TS-389,2026-04-22,Alpha Mobile App,Offline Mode,Major,Medium,In Progress,Nathan Smith,
+TS-390,2026-05-29,Alpha Mobile App,Camera Integration,Major,Low,New,Maria Martin,
+TS-391,2026-05-28,Alpha Mobile App,UI Layout,Minor,Medium,Closed,Olivia Johnson,2026-05-31
+TS-392,2026-05-24,Alpha Mobile App,Offline Mode,Major,Low,In Progress,Olivia Johnson,
+TS-393,2026-03-09,Core HR Portal,Payroll,Major,Low,Ready for QA,Olivia Johnson,
+TS-394,2026-03-13,Core HR Portal,Payroll,Minor,Low,Resolved,Leonard Thomas,2026-03-23
+TS-395,2026-05-21,Nexus E-Commerce,Checkout,Minor,Low,In Progress,Nathan Smith,
+TS-396,2026-04-19,Nexus E-Commerce,Payment Gateway,Minor,Low,Closed,Olivia Johnson,2026-04-21
+TS-397,2026-04-24,Nexus E-Commerce,Checkout,Major,Low,Resolved,Leonard Thomas,2026-05-04
+TS-398,2026-04-19,Alpha Mobile App,UI Layout,Major,Medium,Resolved,Nathan Smith,2026-04-28
+TS-399,2026-05-10,Alpha Mobile App,Offline Mode,Minor,Low,New,Olivia Johnson,
+TS-400,2026-05-05,Nexus E-Commerce,Checkout,Minor,Medium,In Progress,Jessica Cox,
+TS-401,2026-04-01,Core HR Portal,Leave Request,Major,Medium,Ready for QA,Maria Martin,
+TS-402,2026-05-02,Core HR Portal,Onboarding Flow,Critical,High,Closed,Travis Torres,2026-05-03
+TS-403,2026-03-20,Titan Analytics Dashboard,Data Export,Major,High,Closed,Matthew Lambert,2026-03-29
+TS-404,2026-04-26,Alpha Mobile App,Camera Integration,Major,Medium,Closed,Matthew Lambert,2026-05-03
+TS-405,2026-05-07,Alpha Mobile App,Camera Integration,Major,Medium,In Progress,Nathan Smith,
+TS-406,2026-03-18,Alpha Mobile App,UI Layout,Major,Medium,New,Matthew Lambert,
+TS-407,2026-04-15,Alpha Mobile App,Offline Mode,Minor,Medium,Ready for QA,Leonard Thomas,
+TS-408,2026-05-13,Alpha Mobile App,Offline Mode,Major,Medium,New,Maria Martin,
+TS-409,2026-05-07,Titan Analytics Dashboard,User Permissions,Major,Low,New,Jessica Cox,
+TS-410,2026-05-26,Core HR Portal,Leave Request,Minor,Low,Closed,Nathan Smith,2026-05-28
+TS-411,2026-05-05,Alpha Mobile App,Offline Mode,Critical,Medium,New,Jessica Cox,
+TS-412,2026-04-08,Alpha Mobile App,UI Layout,Major,High,Ready for QA,Olivia Johnson,
+TS-413,2026-04-01,Alpha Mobile App,UI Layout,Major,Low,Closed,Matthew Gomez,2026-04-10
+TS-414,2026-05-15,Alpha Mobile App,UI Layout,Major,High,In Progress,Maria Martin,
+TS-415,2026-04-04,Nexus E-Commerce,User Auth,Minor,Low,New,Olivia Johnson,
+TS-416,2026-05-08,Core HR Portal,Performance Review,Major,Medium,Resolved,Maria Martin,2026-05-16
+TS-417,2026-04-04,Alpha Mobile App,Push Notifications,Major,High,In Progress,Shannon Berry,
+TS-418,2026-03-17,Alpha Mobile App,Offline Mode,Critical,Medium,Ready for QA,Maria Martin,
+TS-419,2026-04-22,Nexus E-Commerce,Checkout,Major,Low,Closed,Jessica Cox,2026-05-01
+TS-420,2026-03-20,Nexus E-Commerce,Payment Gateway,Major,Medium,New,Matthew Lambert,
+TS-421,2026-05-26,Titan Analytics Dashboard,Data Export,Major,Medium,Closed,Travis Torres,2026-05-31
+TS-422,2026-05-19,Nexus E-Commerce,Product Search,Major,Low,Ready for QA,Jessica Cox,
+TS-423,2026-03-21,Core HR Portal,Leave Request,Major,High,Closed,Crystal Rasmussen,2026-03-31
+TS-424,2026-04-16,Titan Analytics Dashboard,API Ingestion,Major,High,In Progress,Shannon Berry,
+TS-425,2026-05-16,Titan Analytics Dashboard,API Ingestion,Minor,Medium,New,Olivia Johnson,
+TS-426,2026-03-26,Nexus E-Commerce,User Auth,Minor,Medium,Resolved,Matthew Gomez,2026-03-30
+TS-427,2026-04-23,Alpha Mobile App,Offline Mode,Minor,Low,Ready for QA,Nathan Smith,
+TS-428,2026-05-05,Titan Analytics Dashboard,User Permissions,Major,High,Resolved,Travis Torres,2026-05-12
+TS-429,2026-05-30,Titan Analytics Dashboard,API Ingestion,Major,Medium,In Progress,Crystal Rasmussen,
+TS-430,2026-03-24,Nexus E-Commerce,Payment Gateway,Major,Low,In Progress,Travis Torres,
+TS-431,2026-03-16,Core HR Portal,Leave Request,Minor,Medium,Ready for QA,Jessica Cox,
+TS-432,2026-04-17,Titan Analytics Dashboard,API Ingestion,Major,High,Ready for QA,Maria Martin,
+TS-433,2026-04-03,Titan Analytics Dashboard,Data Export,Blocker,High,New,Matthew Gomez,
+TS-434,2026-05-20,Core HR Portal,Performance Review,Blocker,High,In Progress,Matthew Gomez,
+TS-435,2026-04-10,Titan Analytics Dashboard,Chart Rendering,Minor,Low,New,Jessica Cox,
+TS-436,2026-05-15,Titan Analytics Dashboard,Data Export,Major,Low,In Progress,Olivia Johnson,
+TS-437,2026-05-20,Titan Analytics Dashboard,Chart Rendering,Major,High,Resolved,Crystal Rasmussen,2026-05-24
+TS-438,2026-03-24,Core HR Portal,Payroll,Critical,High,Ready for QA,Maria Martin,
+TS-439,2026-03-11,Nexus E-Commerce,Checkout,Major,High,Closed,Olivia Johnson,2026-03-14
+TS-440,2026-03-08,Core HR Portal,Payroll,Major,High,Resolved,Travis Torres,2026-03-10
+TS-441,2026-05-05,Titan Analytics Dashboard,API Ingestion,Minor,Medium,In Progress,Matthew Gomez,
+TS-442,2026-05-01,Alpha Mobile App,Push Notifications,Major,High,Resolved,Matthew Gomez,2026-05-09
+TS-443,2026-04-15,Titan Analytics Dashboard,Chart Rendering,Major,High,Closed,Nathan Smith,2026-04-23
+TS-444,2026-03-26,Alpha Mobile App,Push Notifications,Minor,Medium,Resolved,Nathan Smith,2026-04-02
+TS-445,2026-04-22,Titan Analytics Dashboard,User Permissions,Major,High,In Progress,Travis Torres,
+TS-446,2026-05-15,Alpha Mobile App,Offline Mode,Minor,Medium,Closed,Shannon Berry,2026-05-19
+TS-447,2026-03-09,Alpha Mobile App,UI Layout,Major,High,Resolved,Matthew Lambert,2026-03-17
+TS-448,2026-05-06,Core HR Portal,Payroll,Major,Low,Ready for QA,Leonard Thomas,
+TS-449,2026-04-09,Nexus E-Commerce,User Auth,Minor,Medium,In Progress,Nathan Smith,
+TS-450,2026-03-12,Core HR Portal,Onboarding Flow,Major,High,Resolved,Travis Torres,2026-03-13
+TS-451,2026-04-25,Nexus E-Commerce,Checkout,Major,High,Closed,Olivia Johnson,2026-05-04
+TS-452,2026-05-12,Titan Analytics Dashboard,User Permissions,Major,Medium,New,Leonard Thomas,
+TS-453,2026-05-29,Alpha Mobile App,Offline Mode,Critical,High,Ready for QA,Matthew Lambert,
+TS-454,2026-03-18,Alpha Mobile App,Offline Mode,Major,Low,Resolved,Travis Torres,2026-03-23
+TS-455,2026-03-11,Core HR Portal,Leave Request,Critical,High,Closed,Travis Torres,2026-03-19
+TS-456,2026-05-19,Nexus E-Commerce,User Auth,Major,Low,Resolved,Travis Torres,2026-05-20
+TS-457,2026-03-13,Alpha Mobile App,Push Notifications,Critical,Medium,Ready for QA,Shannon Berry,
+TS-458,2026-05-13,Alpha Mobile App,Offline Mode,Critical,Medium,Resolved,Travis Torres,2026-05-14
+TS-459,2026-04-30,Titan Analytics Dashboard,User Permissions,Major,High,In Progress,Nathan Smith,
+TS-460,2026-03-03,Nexus E-Commerce,Payment Gateway,Major,Medium,New,Nathan Smith,
+TS-461,2026-05-25,Alpha Mobile App,Offline Mode,Critical,High,Closed,Travis Torres,2026-05-29
+TS-462,2026-03-17,Nexus E-Commerce,Checkout,Minor,Medium,In Progress,Maria Martin,
+TS-463,2026-05-07,Titan Analytics Dashboard,User Permissions,Minor,Medium,Closed,Crystal Rasmussen,2026-05-16
+TS-464,2026-05-22,Core HR Portal,Leave Request,Major,Medium,Closed,Jessica Cox,2026-05-27
+TS-465,2026-03-25,Nexus E-Commerce,User Auth,Critical,High,In Progress,Leonard Thomas,
+TS-466,2026-03-15,Nexus E-Commerce,Payment Gateway,Critical,Medium,Closed,Shannon Berry,2026-03-21
+TS-467,2026-04-27,Nexus E-Commerce,Payment Gateway,Blocker,High,In Progress,Shannon Berry,
+TS-468,2026-05-04,Alpha Mobile App,UI Layout,Major,Medium,Closed,Matthew Lambert,2026-05-13
+TS-469,2026-04-08,Alpha Mobile App,Camera Integration,Blocker,High,New,Leonard Thomas,
+TS-470,2026-05-24,Titan Analytics Dashboard,Data Export,Minor,Medium,Resolved,Olivia Johnson,2026-05-29
+TS-471,2026-04-20,Nexus E-Commerce,Product Search,Major,High,In Progress,Crystal Rasmussen,
+TS-472,2026-04-12,Alpha Mobile App,Offline Mode,Critical,High,Closed,Leonard Thomas,2026-04-19
+TS-473,2026-04-06,Titan Analytics Dashboard,User Permissions,Minor,Medium,Ready for QA,Leonard Thomas,
+TS-474,2026-04-19,Alpha Mobile App,UI Layout,Critical,High,In Progress,Matthew Gomez,
+TS-475,2026-05-26,Alpha Mobile App,Offline Mode,Major,Medium,Closed,Olivia Johnson,2026-05-31
+TS-476,2026-04-30,Titan Analytics Dashboard,User Permissions,Major,High,Closed,Matthew Gomez,2026-05-10
+TS-477,2026-04-29,Nexus E-Commerce,Product Search,Critical,Medium,Ready for QA,Olivia Johnson,
+TS-478,2026-05-20,Nexus E-Commerce,User Auth,Minor,Medium,Ready for QA,Maria Martin,
+TS-479,2026-04-23,Titan Analytics Dashboard,Data Export,Critical,Medium,Closed,Nathan Smith,2026-04-24
+TS-480,2026-03-26,Alpha Mobile App,Offline Mode,Critical,High,Closed,Olivia Johnson,2026-04-04
+TS-481,2026-05-14,Nexus E-Commerce,User Auth,Major,High,New,Olivia Johnson,
+TS-482,2026-04-05,Core HR Portal,Leave Request,Critical,High,Closed,Matthew Gomez,2026-04-07
+TS-483,2026-05-09,Nexus E-Commerce,Checkout,Minor,Medium,New,Olivia Johnson,
+TS-484,2026-05-13,Titan Analytics Dashboard,Data Export,Major,Medium,Closed,Travis Torres,2026-05-14
+TS-485,2026-05-24,Nexus E-Commerce,Product Search,Minor,Low,Closed,Travis Torres,2026-05-30
+TS-486,2026-05-05,Nexus E-Commerce,Checkout,Minor,Medium,In Progress,Nathan Smith,
+TS-487,2026-03-21,Core HR Portal,Performance Review,Major,Medium,Resolved,Matthew Gomez,2026-03-27
+TS-488,2026-04-24,Alpha Mobile App,Camera Integration,Major,Medium,Closed,Crystal Rasmussen,2026-05-04
+TS-489,2026-05-03,Alpha Mobile App,Offline Mode,Major,Low,Ready for QA,Travis Torres,
+TS-490,2026-04-13,Titan Analytics Dashboard,User Permissions,Critical,High,Resolved,Leonard Thomas,2026-04-17
+TS-491,2026-03-24,Nexus E-Commerce,Payment Gateway,Minor,Low,Ready for QA,Maria Martin,
+TS-492,2026-05-03,Titan Analytics Dashboard,API Ingestion,Major,High,New,Nathan Smith,
+TS-493,2026-04-15,Alpha Mobile App,Push Notifications,Minor,Low,New,Maria Martin,
+TS-494,2026-04-06,Titan Analytics Dashboard,Chart Rendering,Minor,Medium,In Progress,Matthew Lambert,
+TS-495,2026-03-15,Titan Analytics Dashboard,Data Export,Minor,Medium,Ready for QA,Olivia Johnson,
+TS-496,2026-04-10,Titan Analytics Dashboard,Chart Rendering,Critical,Medium,Closed,Jessica Cox,2026-04-20
+TS-497,2026-05-25,Nexus E-Commerce,User Auth,Minor,Medium,Ready for QA,Matthew Lambert,
+TS-498,2026-04-21,Core HR Portal,Onboarding Flow,Critical,High,New,Matthew Lambert,
+TS-499,2026-04-19,Alpha Mobile App,Push Notifications,Major,High,In Progress,Nathan Smith,
+TS-500,2026-05-12,Alpha Mobile App,Camera Integration,Major,High,Closed,Jessica Cox,2026-05-13
